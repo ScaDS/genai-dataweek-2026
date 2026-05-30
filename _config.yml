@@ -1,0 +1,36 @@
+#######################################################################################
+# A default configuration that will be loaded for all jupyter books
+# See the documentation for help and more options: 
+# https://jupyterbook.org/customize/config.html
+
+#######################################################################################
+# Book settings
+title                       : DataWeek Leipzig 2026: Wie Generative Künstliche Intelligenz Arbeit und Studium verändert
+author                      : Robert Haase, ScaDS.AI, Uni Leipzig
+copyright                   : "2026"
+logo                        : scads_logo.png
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: 'off'
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/ScaDS/genai-dataweek-2026
+  path_to_book: .  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+html:
+  use_issues_button: true
+  use_repository_button: true
+  extra_footer: |
+    <p>
+    Copyright: Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a> unless mentioned otherwise.</p>
+  extra_static_paths:
+  - session1
+
+
+sphinx:
+  config:
+    html_show_copyright: false

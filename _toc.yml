@@ -1,0 +1,25 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Vor dem Training
+    chapters:
+    - file: session0/vorbereitung.md
+  - caption: Grundlagen Generativer KI
+    chapters:
+    - url: https://github.com/ScaDS/genai-dataweek-2026/blob/main/session1/GenAI_ArbStud_v5.pdf?raw=True
+      title: Wie Generative KI Arbeit und Studium verändert (Folien)
+    - file: session1/rede-generierung.md
+    - file: session1/chatbot.md
+    - file: session1/bildgenerierung.md
+    - file: session1/notebooklm.md
+
+  - caption: Weitere Informationen
+    chapters:
+    - url: https://doi.org/10.5281/zenodo.15450055
+      title: Folien als PPTx (Zenodo)
+    - url: https://creativecommons.org/licenses/by/4.0/deed.en
+      title: "Lizenz: CC-BY 4.0"
+    - file: imprint.md
