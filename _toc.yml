@@ -9,7 +9,7 @@ parts:
     - file: session0/vorbereitung.md
   - caption: Grundlagen Generativer KI
     chapters:
-    - url: https://github.com/ScaDS/genai-dataweek-2026/blob/main/session1/GenAI_ArbStud_v5.pdf?raw=True
+    - url: https://github.com/ScaDS/genai-dataweek-2026/blob/main/session1/GenAI_ArbStud_v8.pdf?raw=True
       title: Wie Generative KI Arbeit und Studium verändert (Folien)
     - file: session1/rede-generierung.md
     - file: session1/chatbot.md

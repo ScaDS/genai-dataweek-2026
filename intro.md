@@ -4,7 +4,7 @@ Moderne KI-getriebene Chat-Apps, wie ChatGPT, Gemini, Claude, und andere veränd
 
 ## Programm
 
-13:30 - 14:15 [Wie Generative KI Arbeit und Studium verändert (Folien)](https://github.com/ScaDS/genai-dataweek-2026/blob/main/session1/GenAI_ArbStud_v5.pdf?raw=True
+13:30 - 14:15 [Wie Generative KI Arbeit und Studium verändert (Folien)](https://github.com/ScaDS/genai-dataweek-2026/blob/main/session1/GenAI_ArbStud_v8.pdf?raw=True
 )
 * Einführung in Künstliche Intelligenz, KI-Systeme und Sprachmodelle
 * Anwendungsgebiete und Grenzen von KI bei der Text-Generierung
