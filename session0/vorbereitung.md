@@ -5,6 +5,7 @@ Für das KI-Kompetentz-Training müssen Sie eigentlich nur ihren Dienstlaptop un
 Wir werden während des Trainings einige Sprachmodelle akademischer und kommerzieller Anbieter benutzen und mitunter vergleichen. Zur Vorbereitung des Kurses wäre es daher von Vorteil, wenn Teilnehmende bereits Konten bei einigen dieser Anbieter hätten:
 * [Helmholtz Blablador](https://helmholtz-blablador.fz-juelich.de/) (akademischer Anbieter)
 * [GWDG / Chat AI / Kisski der Academic Cloud](https://chat-ai.academiccloud.de/) (akademischer Anbieter)
+* [Lumo](https://lumo.proton.me/) (Kommerzieller Anbieter, spezialisiert auf Privatsphäre-Aspekte)
 * [OpenAI / ChatGPT](https://chatgpt.com/) (Kommerzieller Anbieter)
 * [Anthropic / Claude](https://claude.ai/) (Kommerzieller Anbieter)
 * [You.com](https://you.com) (Kommerzieller Anbieter)
