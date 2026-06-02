@@ -2,7 +2,7 @@
 
 In dieser Übung wollen  wir Bilder generieren  und dabei erkunden wo die Limits der Technologie liegen. Welche Bilder kann man generieren, welche nicht? Wieso?
 
-Nutzen SIe für diese Übung eine jener Chat-Apps:
+Nutzen SIe für diese Übung eine jener Bildgeneratoren und Chat-Apps:
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion-3-medium)
 * [Gemini](https://gemini.google.com/app)
 * [ChatGPT](https://chat.openai.com/)
