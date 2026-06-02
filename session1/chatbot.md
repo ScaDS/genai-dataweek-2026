@@ -38,11 +38,12 @@ Für diese Übung stehen verschiedene Themen zur Auswahl.
 ## KI-Systeme
 
 Zur Implementierung des modifizierten Chatbots können diese Systeme genutzt werden:
-* [ChatGPT](https://chat.openai.com/)
+* [Helmholtz Blablador](https://helmholtz-blablador.fz-juelich.de/)
 * [Claude](https://claude.ai)
 * [Gemini](https://gemini.google.com/app)
 * [GWDG Kisski Chat AI (Academic Cloud)](https://chat-ai.academiccloud.de/)
-* [Helmholtz Blablador](https://helmholtz-blablador.fz-juelich.de/)
+* [ChatGPT](https://chat.openai.com/)
+* [Lumo](https://lumo.proton.me/)
 
 ## Hinweise
 
